@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.232325,10.268438
+        ]
+      },
+      "properties": {
+        "marker-symbol": "marker stroke",
+        "Adresse": "Von-Liliencron-Str. 4",
+        "Beschreibung": "Bücher, Kinderbücher, Spielzeug, Krimskrams"
+      }
+    }
+  ]
+}
