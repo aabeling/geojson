@@ -10,7 +10,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "marker stroke",
+        "marker-symbol": "marker-stroked",
         "Adresse": "Von-Liliencron-Str. 4",
         "Beschreibung": "Bücher, Kinderbücher, Spielzeug, Krimskrams"
       }
